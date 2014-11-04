@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: adf7ab16ebd6fdd4b82b54fed4fcee9c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: merlin_attack_275_255_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_4
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_6
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1793
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_12
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_13
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1538
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1283
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_attack_275_255_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1283
+        width: 275
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

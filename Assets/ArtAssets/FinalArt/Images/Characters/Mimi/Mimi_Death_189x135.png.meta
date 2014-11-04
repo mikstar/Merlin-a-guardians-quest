@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 2d826103669d26c4ca1c3fc069ea0b1e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 54
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mimi_Death_189x135_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 889
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 889
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 889
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 889
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 754
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 754
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 754
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 754
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 619
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 619
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 619
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 619
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 484
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 484
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 484
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mimi_Death_189x135_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 484
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

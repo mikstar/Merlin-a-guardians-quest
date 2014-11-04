@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: a834cf611b2b29c45bd0180e66128a23
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy4_rabbit_attack_255_282_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_5
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_6
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_7
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1692
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_13
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_14
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_15
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1410
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_19
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_21
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_22
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_23
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1128
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_27
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_29
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_attack_255_282_30
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 846
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

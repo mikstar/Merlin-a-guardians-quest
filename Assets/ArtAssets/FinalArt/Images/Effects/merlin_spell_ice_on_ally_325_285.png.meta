@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 886f8ceaf0249844db52054f53856f34
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: merlin_spell_ice_on_ally_325_285_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1763
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1763
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1763
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_4
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1763
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_5
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1763
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1478
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1478
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1478
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1478
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_11
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1478
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1193
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1193
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1193
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_16
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1193
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_17
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1193
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 908
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 908
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_21
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 908
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_22
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 908
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_23
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 908
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 623
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_ice_on_ally_325_285_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 623
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ab63e2cf2a207ed46934b04f7fb6f1b1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy4_rabbit_dead_561_300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_2
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_4
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_5
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_6
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 3600
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3300
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_9
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3300
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_10
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 3300
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_11
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3300
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_12
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 3300
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3000
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_14
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3000
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_15
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 3000
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_dead_561_300_16
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 3000
+        width: 561
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

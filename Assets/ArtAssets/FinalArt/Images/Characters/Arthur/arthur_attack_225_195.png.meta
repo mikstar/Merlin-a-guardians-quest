@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 04771c8c325d0f2479f40944a0f93c46
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arthur_attack_225_195_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 829
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 829
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 829
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 634
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 634
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 634
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 439
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 439
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 439
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 244
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arthur_attack_225_195_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 244
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

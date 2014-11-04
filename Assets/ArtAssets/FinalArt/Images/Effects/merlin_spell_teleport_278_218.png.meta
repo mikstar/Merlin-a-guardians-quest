@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 22f56258a60c92a489283a3ecbe1e3d0
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: merlin_spell_teleport_278_218_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1830
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1830
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1830
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1830
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1830
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_5
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1830
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_10
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_11
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_12
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1612
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_16
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_17
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_18
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_19
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1394
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_21
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1176
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1176
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_spell_teleport_278_218_23
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1176
+        width: 278
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

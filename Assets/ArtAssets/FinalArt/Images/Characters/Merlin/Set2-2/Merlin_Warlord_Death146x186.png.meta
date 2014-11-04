@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 7416852bb093ea94ca3154fda478219e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Merlin_Warlord_Death146x186_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 838
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 652
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 466
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 280
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 94
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 94
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Warlord_Death146x186_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 94
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

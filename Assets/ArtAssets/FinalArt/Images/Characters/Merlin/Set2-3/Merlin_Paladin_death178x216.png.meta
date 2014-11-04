@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 3961e691ae925e74a9eb6fcc845d78ae
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Merlin_Paladin_death178x216_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_7
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_9
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_10
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 296
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_16
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_17
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_18
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_19
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_20
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Paladin_death178x216_21
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 80
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

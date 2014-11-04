@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 81585b8505b0cb8499bd64bc3b199a85
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: merlin_dead_322_376_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1672
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1672
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1672
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1672
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_5
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1672
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1296
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1296
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1296
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_10
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1296
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_11
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1296
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 920
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 920
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_15
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 920
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_16
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 920
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_17
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 920
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 544
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: merlin_dead_322_376_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 544
+        width: 322
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

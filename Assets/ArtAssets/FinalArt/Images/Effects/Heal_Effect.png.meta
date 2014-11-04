@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: d661a6eb620d23448bdf0a94f57274e6
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Heal_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 855
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 686
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Heal_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 517
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 348
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 348
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Heal_Effect_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 348
+        width: 125
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

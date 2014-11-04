@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 8591ca197b207584089dc147bc91784a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy4_rabbit_walk_151_265_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_9
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_10
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_11
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_12
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1590
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_18
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_19
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_20
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_21
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_22
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_23
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy4_rabbit_walk_151_265_24
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1325
+        width: 151
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

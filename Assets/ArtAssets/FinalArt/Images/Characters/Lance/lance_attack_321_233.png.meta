@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: df54fca3d18a13a4aa8fb2f6c1ac3caf
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lance_attack_321_233_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1815
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1815
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1815
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1815
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1815
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1815
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1582
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1582
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1582
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1582
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1582
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_11
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1582
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1349
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1349
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1349
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1349
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_16
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1349
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1349
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1116
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1116
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1116
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_22
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1116
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_23
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1116
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: lance_attack_321_233_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 321
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

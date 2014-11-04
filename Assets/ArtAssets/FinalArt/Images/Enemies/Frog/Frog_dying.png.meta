@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 262276bc61a63f5449198fe5b430c2ca
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Frog_dying_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 896
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 896
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 896
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 768
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 768
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 768
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 640
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 512
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_13
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 384
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Frog_dying_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 3e22a4afc4fb9124682537534684aa7b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy3_lizard_walk_187_196_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 784
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 784
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 784
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 784
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 588
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 588
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 588
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 588
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 392
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 392
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 392
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_14
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 392
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 196
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 196
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 196
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_19
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 196
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemy3_lizard_walk_187_196_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

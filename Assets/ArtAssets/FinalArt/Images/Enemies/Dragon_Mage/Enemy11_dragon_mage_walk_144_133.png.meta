@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 4a82ab993dd29de45a3e3bf70244907e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy11_dragon_mage_walk_144_133_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 891
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 891
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 891
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 891
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 891
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 758
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 758
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 758
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 758
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 758
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 625
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Enemy11_dragon_mage_walk_144_133_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 625
+        width: 144
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

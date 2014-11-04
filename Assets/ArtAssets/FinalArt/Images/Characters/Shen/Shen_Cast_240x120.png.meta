@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: f49a2b111b79bb5489a1ce4dbefab0ba
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shen_Cast_240x120_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 904
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 904
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 904
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 784
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 784
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 784
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 664
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 664
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 424
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 424
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 424
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 304
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 184
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 184
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 184
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Shen_Cast_240x120_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

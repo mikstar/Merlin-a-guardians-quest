@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 0a05e8703288d244cb4ee9ef04afad79
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leila_attack_250_230_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1818
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_15
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1588
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_21
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1358
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_29
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_31
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1128
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_36
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_37
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: leila_attack_250_230_39
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 898
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

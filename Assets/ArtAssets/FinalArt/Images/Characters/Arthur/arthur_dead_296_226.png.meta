@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d21a69ebd7adb844a9637f9b2bab1c39
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arthur_dead_296_226_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1822
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1822
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1822
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1822
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1822
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_5
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1822
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1596
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1596
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1596
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1596
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_11
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1596
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1370
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1370
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1370
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1370
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: arthur_dead_296_226_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1370
+        width: 296
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

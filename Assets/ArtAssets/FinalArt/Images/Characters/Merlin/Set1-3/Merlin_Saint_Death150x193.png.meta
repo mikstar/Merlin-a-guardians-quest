@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: f021fc14b7c604949a1cc5b0040ab339
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Merlin_Saint_Death150x193_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 831
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 831
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 831
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 831
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 831
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 638
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 638
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 638
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 638
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 638
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 445
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 445
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 445
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 445
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 445
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 252
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 252
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 252
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 252
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 252
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 59
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 59
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 59
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Merlin_Saint_Death150x193_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 59
+        width: 150
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
